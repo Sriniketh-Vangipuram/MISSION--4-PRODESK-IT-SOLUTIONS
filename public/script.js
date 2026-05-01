@@ -25,12 +25,18 @@ async function generate() {
       body: JSON.stringify({ name, role, company, skills, tone })
     });
 
+    console.log("status",res.status);
     const data = await res.json();
-
+    console.log("data",data);
     // UX delay (important)
     setTimeout(() => {
       loading.classList.add("hidden");
-      output.value = data.text;
+      if (data.text) {
+        output.value = data.text;
+      } else {
+        console.log("API Response:", data);
+        output.value = "Failed to generate cover letter";
+      }
     }, 3000);
 
   } catch (err) {
