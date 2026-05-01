@@ -10,7 +10,7 @@ https://ai-cover-letter-generator-7aj50hn5p.vercel.app/
 ---
 
 ## 🚀 Live Demo
-
+https://youtu.be/eG5g4PaBTe0
 ---
 
 ## 📌 Features
