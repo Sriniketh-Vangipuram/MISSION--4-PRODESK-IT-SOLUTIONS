@@ -79,3 +79,26 @@ ai-cover-saas/
 ```bash
 npm install
 vercel dev
+
+
+🚀 Deployment
+Push to GitHub
+Import into Vercel
+Deploy instantly
+
+🎯 Key Engineering Decisions
+Implemented fallback system to ensure reliability
+Prevented app crashes due to API failures
+Added loading state for better UX
+Designed scalable backend structure
+
+📌 Future Improvements
+Real-time AI streaming output
+Resume parsing (PDF)
+Multi-template customization
+Authentication system
+
+
+🙌 Author
+
+Sriniketh Vangipuram
