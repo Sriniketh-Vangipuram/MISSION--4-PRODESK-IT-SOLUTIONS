@@ -4,8 +4,12 @@ A production-ready web application that generates professional cover letters usi
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Live Website
 https://ai-cover-letter-generator-7aj50hn5p.vercel.app/
+
+---
+
+## 🚀 Live Demo
 
 ---
 
